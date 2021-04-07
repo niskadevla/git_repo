@@ -1,1 +1,4 @@
 lorem ipsum
+
+text in new branch
+text 4 (after 2 reset hard)
